@@ -1,6 +1,6 @@
 ### Enron Email & Stock Analysis Chatbot (Project "Enrique")
 
-This project is an AI-powered chatbot designed to analyze and provide insights from the Enron email dataset. It specifically focuses on the communications of Kenneth Lay and analyzes email activity and Enron's stock performance data.
+This project is an AI-powered chatbot designed to analyze and provide insights from the Enron email dataset. It specifically focuses on the communications of Kenneth Lay (the CEO and founder of Enron) and analyzes email activity and Enron's stock performance data.
 
 The chatbot, named "Enrique," uses a Large Language Model (LLM) hosted on Amazon Bedrock to understand natural language questions, query a vector database, and provide conversational, context-aware answers.
 
